@@ -2,6 +2,8 @@ const program = require('commander');
 
 const package = require('../package');
 
+console.log(package);
+
 program
   .version(package.version) //  显示版本号
   .usage('<command> [options]');
