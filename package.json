@@ -1,12 +1,17 @@
 {
   "name": "czh-cli",
-  "version": "1.0.1",
-  "main": "bin/index.js",
+  "version": "1.0.11",
   "license": "MIT",
   "author": "freedom_stream",
   "bin": {
     "czh-cli": "bin/index"
   },
+  "keywords": [
+    "cli",
+    "czh",
+    "templates",
+    "self"
+  ],
   "dependencies": {
     "commander": "^6.1.0",
     "ejs": "^3.1.5",
