@@ -1,0 +1,15 @@
+{
+  "name": "czh-cli",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "author": "freedom_stream",
+  "bin": {
+    "czh-cli": "bin/index"
+  },
+  "dependencies": {
+    "commander": "^6.1.0",
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3"
+  }
+}
