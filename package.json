@@ -2,9 +2,14 @@
   "name": "czh-cli",
   "version": "1.0.11",
   "license": "MIT",
-  "author": "freedom_stream",
+  "author": {
+    "name": "freedom_stream"
+  },
   "bin": {
     "czh-cli": "bin/index"
+  },
+  "bugs": {
+    "url": "https://github.com/czh50501607/czh-cli/issues"
   },
   "keywords": [
     "cli",
