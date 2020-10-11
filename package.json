@@ -1,10 +1,10 @@
 {
   "name": "czh-cli",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "license": "MIT",
   "author": "freedom_stream",
   "bin": {
-    "czh-cli": "bin/index"
+    "czh-cli": "bin/index.js"
   },
   "bugs": {
     "url": "https://github.com/czh50501607/czh-cli/issues"
