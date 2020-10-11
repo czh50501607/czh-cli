@@ -2,9 +2,7 @@
   "name": "czh-cli",
   "version": "1.0.11",
   "license": "MIT",
-  "author": {
-    "name": "freedom_stream"
-  },
+  "author": "freedom_stream",
   "bin": {
     "czh-cli": "bin/index"
   },
