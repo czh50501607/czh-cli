@@ -1,0 +1,18 @@
+[
+  {
+    "name": "",
+    "type": "public-gulp",
+    "author": "",
+    "repository_url": "https://github.com/OctoD/typescript-module-template.git",
+    "api_url": "https://api.github.com/orgs/typescript-module-template/repos",
+    "description": "还没有该仓库"
+  },
+  {
+    "name": "typescript-module-template",
+    "type": "ts-node-lib",
+    "author": "OctoD",
+    "repository_url": "https://github.com/OctoD/typescript-module-template.git",
+    "api_url": "https://api.github.com/orgs/typescript-module-template/repos",
+    "description": "typescript 的 node 包模版"
+  }
+]
